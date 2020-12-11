@@ -1,5 +1,3 @@
 # ignore files inside .vscode
 .vscode
 
-#ignore virtual environment
-env\
